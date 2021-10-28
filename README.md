@@ -1,5 +1,5 @@
 Lab 6
-Due: Mon Oct 26, 11:59pm
+
 
 Problem:
 Roll a ball and make it bounce around the sides of a window 4 times
