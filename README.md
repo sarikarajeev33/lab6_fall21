@@ -8,7 +8,7 @@ Purpose:
 This lab gives you practice with: * Designing, programming, and calling functions * Designing and programming while loops * Designing loop conditions * Re-using many of the other aspects of Python we've learned so far * Testing code
 
 Details:
-You need to design, write, and test a program that rolls a ball as demonstrated at the beginning of the lab. The ball goes down and right, bounces against the right edge of the window, then goes down and left, bounces against the bottom edge, then goes up and left, bounces against the left edge, then goes up and right and stops when it hits the top edge.
+You need to design, write, and test a program that rolls a ball. The ball goes down and right, bounces against the right edge of the window, then goes down and left, bounces against the bottom edge, then goes up and left, bounces against the left edge, then goes up and right and stops when it hits the top edge.
 
 Program Requirements:
 When you plan your solution, you must take the following into account:
